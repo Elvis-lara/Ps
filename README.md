@@ -5,5 +5,3 @@
 <p> Sección: "A" </p>
 <p> Materia: ps</p>
 <p> Maestro: Elmer Aceituno </center></p>
-</body>
-</html>
