@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>Elvis</title>
-</head>
 <body>
 <p><center>	Nombre: Elvis Miguel Lara Sinar</p>
 <p>Grado: 5to bachillerato de compitación </p>
