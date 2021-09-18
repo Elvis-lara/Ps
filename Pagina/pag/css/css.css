@@ -1,0 +1,42 @@
+#footer{
+   background-color: #000000; 
+   color: #9D9A9A; 
+   font-size: 20px; 
+   padding: 10px 10px 10px 10px; 
+   max-width: 1300px; 
+   height: 100;
+   text-align: center;
+}
+
+#center{
+   text-align: center;
+}
+
+#cuadro{
+   text-align: center;
+   list-style:
+   none;padding: 0px;
+   background-color: #000000 ;  
+   width: 50%;
+   max-width: 1000px;
+   margin: auto;
+   display:block;
+}
+#sec{
+    background-color: #21787E;
+    padding: 45px 45px 45px 45px; 
+    text-align: left; 
+    display: block;  
+    max-width: 500px; 
+    height: auto
+}
+
+#footer2{
+   background-color: #000000; 
+   color: #9D9A9A; 
+   font-size: 20px; 
+   padding: 10px 10px 10px 10px; 
+   max-width: 1300px; 
+   height: 30;
+   text-align: center;
+}
